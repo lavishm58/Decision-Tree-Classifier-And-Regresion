@@ -1,4 +1,5 @@
-**The two different datasets**
+**Two Datasets**
+
 ***P1 data***
 
 It is solved used by finding optimal Decision Tree Classifier for the dataset.
